@@ -23,8 +23,6 @@ Jupyter Notebook
 Gathered raw sales data from the provided CSV file (sales_data_raw.csv).
 Checked the structure — columns like order_date, product_name, revenue, state, etc.
 
-# Dataset used =  ">dataset</a>
-
 # 🔹 2. Data Cleaning & Preprocessing
 Checked for missing values, duplicates, and incorrect data types.
 Handled nulls using suitable imputation or removal.
